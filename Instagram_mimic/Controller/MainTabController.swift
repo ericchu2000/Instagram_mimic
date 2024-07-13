@@ -17,7 +17,6 @@ class MainTabController: UITabBarController {
         tabBar.backgroundColor = .white
         tabBar.isTranslucent = true
         
-        
     }
     
     // MARK: Helpers
