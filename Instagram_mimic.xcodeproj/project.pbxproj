@@ -27,6 +27,7 @@
 		3DFD09122C3C723D009556A7 /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFD09112C3C723D009556A7 /* LoginController.swift */; };
 		3DFD09142C3C724D009556A7 /* RegistrationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFD09132C3C724D009556A7 /* RegistrationController.swift */; };
 		3DFD09162C3C81B6009556A7 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFD09152C3C81B6009556A7 /* CustomTextField.swift */; };
+		3DFD09182C42ECDD009556A7 /* AuthenticationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DFD09172C42ECDD009556A7 /* AuthenticationViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -71,6 +72,7 @@
 		3DFD09112C3C723D009556A7 /* LoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
 		3DFD09132C3C724D009556A7 /* RegistrationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationController.swift; sourceTree = "<group>"; };
 		3DFD09152C3C81B6009556A7 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		3DFD09172C42ECDD009556A7 /* AuthenticationViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticationViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,6 +176,7 @@
 		3DFD087E2C3BF3BD009556A7 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				3DFD09172C42ECDD009556A7 /* AuthenticationViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -353,6 +356,7 @@
 				3DFD090B2C3C5DDB009556A7 /* FeedCell.swift in Sources */,
 				3DFD08892C3BFCEC009556A7 /* ImageSelectorController.swift in Sources */,
 				3DFD08872C3BFCDB009556A7 /* SearchController.swift in Sources */,
+				3DFD09182C42ECDD009556A7 /* AuthenticationViewModel.swift in Sources */,
 				3DFD088B2C3BFCF6009556A7 /* NotificationController.swift in Sources */,
 				3DFD084D2C3BF2C5009556A7 /* AppDelegate.swift in Sources */,
 				3DFD088D2C3BFD1A009556A7 /* ProfileController.swift in Sources */,
